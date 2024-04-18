@@ -5,7 +5,7 @@ This project utilizes an Arduino board along with a passive infrared (PIR) motio
 ## Hardware Components:
 - Arduino board (e.g., Arduino Uno)
 - Passive Infrared (PIR) motion sensor
-- GSM module (e.g., SIM900A)
+- GSM module (SIM900L)
 - Buzzer
 - Jumper wires
 
